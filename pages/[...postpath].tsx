@@ -18,7 +18,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 		return {
 			redirect: {
 				permanent: false,
-				destination: `${
+				destination: `{
 					`https://newsdaily77.000webhostapp.com
 				}`,
 			},
